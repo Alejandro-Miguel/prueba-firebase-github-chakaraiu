@@ -1,0 +1,15 @@
+{  "Hero": {
+    "title1": "Prueba de Firebase",
+    "title2": "Github",
+    "text":"Esta prueba es para saber como hacer deploy ",
+    "button1":"Github"
+  },
+  "Tools":[{
+    "titles":"Hola",
+    "icons":"FcDonate",
+    "text2":"jadgfhjglsdfjsadlfh"
+  },
+  {
+    "titles":"Hola"
+  }]
+}
